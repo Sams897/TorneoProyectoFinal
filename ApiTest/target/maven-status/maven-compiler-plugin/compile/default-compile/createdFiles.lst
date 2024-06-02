@@ -1,0 +1,5 @@
+com\api\test\data\TorneoData.class
+com\api\test\model\Torneo.class
+com\api\test\TestApplication.class
+com\api\test\controller\TorneoController.class
+com\api\test\controller\TestController.class
